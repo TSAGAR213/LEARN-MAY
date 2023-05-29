@@ -10,3 +10,7 @@ header nav ul
 {
     width: 100%;
 }
+#nav
+{
+   background-color: aliceblue; 
+}
